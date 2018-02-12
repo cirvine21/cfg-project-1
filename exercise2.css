@@ -1,0 +1,11 @@
+ul.nav li{
+        display: inline-block;
+        padding-right: 10px;
+        background: red;
+        color: white;
+    }
+    .about_blue {
+      background: #F0F8FF;
+      border: 3px;
+
+    }
